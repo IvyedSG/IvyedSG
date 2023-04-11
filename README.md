@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/deyvi-sánchez-68390725b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deyvi-sánchez-68390725b" height="30" width="40" /></a>
 <a href="https://fb.com/ivyedscarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ivyedscarg" height="30" width="40" /></a>
 <a href="https://instagram.com/dev_sago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_sago" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@itsdodo4121/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@itsdodo4121/featured" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@itsdodo4121/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@itsdodo4121/featured" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
