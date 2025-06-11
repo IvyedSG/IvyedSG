@@ -23,3 +23,9 @@ Me especializo en el desarrollo de software, enfocándome en la creación de int
 - Vite.js
 - Shadcn / Material UI
 - Google Cloud Run
+- React
+- Flutter
+- Vue
+- Nuxt
+- ASP .NET
+- C#
